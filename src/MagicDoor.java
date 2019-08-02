@@ -13,9 +13,6 @@ public class MagicDoor {
         Hero ironMan = new Hero(300,20,1);
         Hero capitanAmerica = new Hero(250,20,1);
         Hero thor = new Hero(300,50,1);*/
-        for (int i = 0; i < 4; i++) {
-            return heroes;
-        }
         return heroes;
     }
 }
