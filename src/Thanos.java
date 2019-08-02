@@ -32,8 +32,8 @@ public class Thanos {
 
     public static int changeBossDefence() {
         Random random = new Random();
-        int randomNum = random.nextInt(3) +1;
-       return randomNum;
+        int randomNum = random.nextInt(3) + 1;
+        return randomNum;
 
     }
 
