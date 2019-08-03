@@ -1,5 +1,3 @@
-import java.awt.*;
-
 public class Avengers {
     String name;
     int health;

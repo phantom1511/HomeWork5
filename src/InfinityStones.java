@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.Random;
-
 public class InfinityStones {
     public static Avengers[] heroes = new Avengers[4];
 
